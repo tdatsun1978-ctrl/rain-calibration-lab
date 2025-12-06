@@ -1,0 +1,5 @@
+density: 2700
+elastic_modulus: 69000
+yield_strength: 275
+tensile_strength: 310
+poisson_ratio: 0.33

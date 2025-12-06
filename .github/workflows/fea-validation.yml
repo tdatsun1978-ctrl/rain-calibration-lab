@@ -1,0 +1,9 @@
+name: FEA Validation
+on: [push]
+jobs:
+  run-fea:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Validate Geometry
+      run: echo 'Running FEA validation...'

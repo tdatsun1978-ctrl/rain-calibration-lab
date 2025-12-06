@@ -1,0 +1,25 @@
+[
+  {
+    "Material_Name": "PLA",
+    "Category": "polymer",
+    "Density_kg_m3": 1240,
+    "Elastic_Modulus_GPa": 2.1,
+    "Yield_Strength_MPa": 55,
+    "Thermal_Conductivity_W_mK": 0.17,
+    "Description": "Polylactic Acid (PLA) is a biodegradable thermoplastic derived from renewable resources. It exhibits good stiffness and dimensional accuracy but tends to be brittle under impact.",
+    "Design_Use_Case": "Used for prototyping, decorative, and low-stress components due to ease of printing and surface quality.",
+    "Reference_File": "materials/data/PLA_datasheet.json"
+  },
+  {
+    "Material_Name": "ABS",
+    "Category": "polymer",
+    "Density_kg_m3": 1050,
+    "Elastic_Modulus_GPa": 2.2,
+    "Yield_Strength_MPa": 43,
+    "Thermal_Conductivity_W_mK": 0.13,
+    "Description": "Acrylonitrile Butadiene Styrene (ABS) is a durable thermoplastic offering improved impact and thermal resistance. Requires controlled environment printing to reduce warping.",
+    "Design_Use_Case": "Functional prototypes and mechanical enclosures where durability and moderate heat resistance are required.",
+    "Reference_File": "materials/data/ABS_datasheet.json"
+  },
+  {
+    "Material_Name": "PET_
